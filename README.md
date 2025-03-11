@@ -6,3 +6,6 @@
 5. cmake ..
 6. make
 7. ./MyMxM 
+
+
+!! make sure to edit the CMakelist accordingly 
