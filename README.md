@@ -8,4 +8,4 @@
 7. ./MyMxM 
 
 
-!! make sure to edit the CMakelist accordingly 
+!! make sure to edit the CMakelists.txt accordingly 
