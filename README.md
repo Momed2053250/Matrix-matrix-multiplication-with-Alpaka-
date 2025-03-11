@@ -8,4 +8,4 @@
 7. ./MyMxM 
 
 
-!! make sure to edit the CMakelists.txt accordingly 
+!! make sure to edit the CMakeLists.txt accordingly setting the path to the path of alpaka on your pc  
