@@ -1,8 +1,8 @@
 # Matrix-matrix-multiplication-with-Alpaka-
 
-1. Clone the directory
-2. mkdir build
-3. cd build
-4. cmake ..
-5. make
-6. ./MyMxM 
+1. Clone the directory and cd 
+3. mkdir build
+4. cd build
+5. cmake ..
+6. make
+7. ./MyMxM 
